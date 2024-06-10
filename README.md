@@ -3,17 +3,13 @@ REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f
 
 ### Problem Statement(Phishing Email):
 
-Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats.
+Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which can be easily obfuscated by attackers.
 
 ### Research Question: 
-How can the integration of AI and quantum computing can be used to better detect unknown threats to prevent email phishing attacks?
-
-These methods primarily focus on limited features like URL properties and specific email characteristics, which can be easily obfuscated by attackers.
+How can the integration of AI and quantum computing increase the efficiency of detecting unknown threats to prevent email phishing attacks?
 
 ### Expanding: 
 Go beyond URL properties and include a wider range of features such as email headers, sender behavior, email content analysis. Utilize features from the email body, attachments, and links. OR use Quantum computing to create unknown realistic threats.
-
-Leverage quantum computing to improve the efficiency and speed of data processing, enabling real-time phishing detection.
 
 Utilize quantum algorithms for feature selection and model training to handle high-dimensional data more effectively.
 
