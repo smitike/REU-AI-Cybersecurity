@@ -3,10 +3,10 @@ REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f
 
 ### Problem Statement(Phishing Email):
 
-Traditional machine learning (ML) methods for identifying phishing emails often rely heavily on manual feature engineering and source code features. These methods struggle to detect new phishing scams effectively and are slow due to their dependence on third-party services and content scraping. This results in significant delays and reduced accuracy in phishing email classification, making it difficult to keep up with the rapidly evolving phishing techniques.
+Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats.
 
 ### Research Question: 
-How can the integration of AI and quantum computing enhance the speed and accuracy of phishing email detection by automating feature engineering and reducing dependency on third-party services, compared to traditional ML methods?
+How can the integration of AI and quantum computing can be used to better detect unknown threats to prevent email phishing attacks?
 
 These methods primarily focus on limited features like URL properties and specific email characteristics, which can be easily obfuscated by attackers.
 
