@@ -11,13 +11,13 @@ How can the integration of AI and quantum computing enhance the speed and accura
 These methods primarily focus on limited features like URL properties and specific email characteristics, which can be easily obfuscated by attackers.
 
 ### Expanding: 
-Go beyond URL properties and include a wider range of features such as email headers, sender behavior, email content analysis. Utilize features from the email body, attachments, and links.
+Go beyond URL properties and include a wider range of features such as email headers, sender behavior, email content analysis. Utilize features from the email body, attachments, and links. OR use Quantum computing to create unknown realistic threats.
 
 Leverage quantum computing to improve the efficiency and speed of data processing, enabling real-time phishing detection.
 
 Utilize quantum algorithms for feature selection and model training to handle high-dimensional data more effectively.
 
-### Problem Statement(Pattern Recognition):
+### Problem Statement(Facial Pattern Recognition):
 https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5196000 
 Facial expression recognition systems, while effective, often face limitations in accuracy, computational cost, and time consumption due to the complexity of image data and the limited number of samples per class in datasets like FER2013. Integrating quantum computing with deep learning techniques can potentially address these challenges by enhancing data processing capabilities, improving pattern recognition, and reducing computational overhead.
 
