@@ -3,7 +3,7 @@ REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f
 
 ### Problem Statement(Phishing Email):
 
-Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which can be easily obfuscated by attackers.
+Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which attackers can easily hide. 
 
 ### Research Question: 
 How can the integration of AI and quantum computing increase the efficiency of detecting unknown threats to prevent email phishing attacks?
