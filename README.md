@@ -1,6 +1,10 @@
 # REU-AI-Cybersecurity-SM
 REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f1b45
 
+###IoT
+https://ieeexplore.ieee.org/document/10136827
+
+
 ### Problem Statement(Phishing Email):
 
 Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which attackers can easily hide. 
