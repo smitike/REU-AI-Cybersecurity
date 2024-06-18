@@ -9,6 +9,8 @@ To what extent does the quantum-enhanced XAI model improve the detection of prev
 
 https://ieeexplore.ieee.org/document/10136827
 
+https://arxiv.org/pdf/2309.01829 (Tom) - Mitigating overfitting in QCNN
+
 
 
 ### Problem Statement(Phishing Email):
