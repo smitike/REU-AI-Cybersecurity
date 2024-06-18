@@ -3,6 +3,8 @@ REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f
 
 PPT: https://docs.google.com/presentation/d/1z5sr9k3j24NHAuz8u-bZl0Wzn8QQzbkR56Wk5UkNN7Y/edit#slide=id.p
 
+Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vgGPa3wk0qb8HoKravFoO0Us/edit
+
 ###IoT
 
 To what extent does the quantum-enhanced XAI model improve the detection of previously unknown cyber threats in IoT ecosystems and improve IoT security?
