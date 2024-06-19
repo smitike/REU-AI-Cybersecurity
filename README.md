@@ -13,6 +13,12 @@ https://ieeexplore.ieee.org/document/10136827
 
 https://arxiv.org/pdf/2309.01829 (Tom) - Mitigating overfitting in QCNN
 
+Datasets:
+
+
+Portable executable:
+https://www.kaggle.com/datasets/joebeachcapital/windows-malwares/data
+
 
 
 ### Problem Statement(Phishing Email):
