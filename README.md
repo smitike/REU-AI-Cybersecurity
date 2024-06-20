@@ -21,19 +21,21 @@ https://www.kaggle.com/datasets/joebeachcapital/windows-malwares/data
 
 
 
-### Problem Statement(Phishing Email):
+
+
+# Problem Statement(Phishing Email):
 
 Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which attackers can easily hide. 
 
-### Research Question: 
+# Research Question: 
 How can the integration of AI and quantum computing increase the efficiency of detecting unknown threats to prevent email phishing attacks?
 
-### Expanding: 
+# Expanding: 
 Go beyond URL properties and include a wider range of features such as email headers, sender behavior, email content analysis. Utilize features from the email body, attachments, and links. OR use Quantum computing to create unknown realistic threats.
 
 Utilize quantum algorithms for feature selection and model training to handle high-dimensional data more effectively.
 
-### Problem Statement(Facial Pattern Recognition):
+# Problem Statement(Facial Pattern Recognition):
 https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5196000 
 Facial expression recognition systems, while effective, often face limitations in accuracy, computational cost, and time consumption due to the complexity of image data and the limited number of samples per class in datasets like FER2013. Integrating quantum computing with deep learning techniques can potentially address these challenges by enhancing data processing capabilities, improving pattern recognition, and reducing computational overhead.
 
@@ -43,7 +45,7 @@ The model on this paper attained an accuracy of 0.70 which is very close to the 
 
 *How can the integration of quantum computing with deep learning improve the accuracy and enhance the efficiency of facial expression recognition systems, compared to traditional methods?*
 
-### Expanding:
+# Expanding:
 
 Expanding on this research, address the issue of limited samples per class which can be done by increasing the number of samples per class using quantum computing.
 
