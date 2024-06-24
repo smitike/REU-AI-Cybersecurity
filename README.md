@@ -8,17 +8,25 @@ Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vg
 ###IoT
 
 # Main Purpose
-To use dynamic Graph Neural Networks (GNNs) to enhance cybersecurity in home networks by identifying vulnerabilities, detecting attacks, tracing attack sources, assessing impacts, and developing protection and recovery strategies.
+Develop algorithms that utilize the temporal and spatial relationships captured by the GNN to trace the origin of an attack within the network graph. Question: Can dynamic GNNs accurately trace back and identify the source of cybersecurity attacks within a network?
 
 # Expected Outcomes
-Enhanced Vulnerability Detection: A model that flags vulnerable devices in real time. (GCN)
-
 Accurate Source Tracing: Tools for tracing the origin of attacks quickly. (GAT)
 
+# Approach
+Attack Source Identification
+ Approach: Utilize the temporal and spatial dependencies captured by the dynamic GNN to trace back the source of an attack.
+ Techniques: Graph traversal algorithms, backtracking methods in the GNN framework.
+
+# Quantum Integration
+How QNNs Help: QNNs can improve the traceability of attack sources by analyzing the temporal and spatial relationships in network data more effectively. Quantum algorithms can analyze these relationships in a highly parallel manner, leading to faster and more accurate identification of attack sources. Example Approach: Developing quantum-enhanced graph traversal algorithms that leverage the principles of quantum entanglement to trace the origin of attacks​ (SpringerLink)​.
+
+
+Other options:
+
+Enhanced Vulnerability Detection: A model that flags vulnerable devices in real time. (GCN)
 Comprehensive Impact Assessment: A framework to measure attack impact on network performance. (TGN)
-
 Improved Attack Detection and Prediction: A robust system for identifying and predicting attacks.
-
 Effective Protection and Recovery: Strategies to isolate compromised nodes and ensure rapid recovery.
 
 
