@@ -7,7 +7,21 @@ Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vg
 
 ###IoT
 
-To what extent does the quantum-enhanced XAI model improve the detection of previously unknown cyber threats in IoT ecosystems and improve IoT security?
+# Main Purpose
+To use dynamic Graph Neural Networks (GNNs) to enhance cybersecurity in home networks by identifying vulnerabilities, detecting attacks, tracing attack sources, assessing impacts, and developing protection and recovery strategies.
+
+# Expected Outcomes
+Enhanced Vulnerability Detection: A model that flags vulnerable devices in real-time.
+
+Accurate Source Tracing: Tools for tracing the origin of attacks quickly.
+
+Comprehensive Impact Assessment: A framework to measure attack impact on network performance.
+
+Improved Attack Detection and Prediction: A robust system for identifying and predicting attacks.
+
+Effective Protection and Recovery: Strategies to isolate compromised nodes and ensure rapid recovery.
+
+
 
 https://ieeexplore.ieee.org/document/10136827
 
@@ -18,40 +32,3 @@ https://paperswithcode.com/dataset/sorel-20m - SOREL-20M is a large-scale datase
 
 Portable executable:
 https://www.kaggle.com/datasets/joebeachcapital/windows-malwares/data
-
-
-
-
-
-# Problem Statement(Phishing Email):
-
-Email phishing targets individuals to obtain sensitive information, like usernames, passwords, or credit card details, by pretending to be a trustworthy entity. Traditional phishing detection is limited to known threats which attackers can easily hide. 
-
-# Research Question: 
-How can the integration of AI and quantum computing increase the efficiency of detecting unknown threats to prevent email phishing attacks?
-
-# Expanding: 
-Go beyond URL properties and include a wider range of features such as email headers, sender behavior, email content analysis. Utilize features from the email body, attachments, and links. OR use Quantum computing to create unknown realistic threats.
-
-Utilize quantum algorithms for feature selection and model training to handle high-dimensional data more effectively.
-
-# Problem Statement(Facial Pattern Recognition):
-https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5196000 
-Facial expression recognition systems, while effective, often face limitations in accuracy, computational cost, and time consumption due to the complexity of image data and the limited number of samples per class in datasets like FER2013. Integrating quantum computing with deep learning techniques can potentially address these challenges by enhancing data processing capabilities, improving pattern recognition, and reducing computational overhead.
-
-The model on this paper attained an accuracy of 0.70 which is very close to the state-of-the-art model that already exists.
-
-### Research Question:
-
-*How can the integration of quantum computing with deep learning improve the accuracy and enhance the efficiency of facial expression recognition systems, compared to traditional methods?*
-
-# Expanding:
-
-Expanding on this research, address the issue of limited samples per class which can be done by increasing the number of samples per class using quantum computing.
-
-1. Synthetic Data Generation: Use quantum generative models to create new, realistic images for each class. These models can generate high-quality samples that mimic the properties of the original data.
-    1. Use Quantum Generative Adversarial Networks (QGANs) to generate synthetic images for classes with fewer samples.
-2. Data Augmentation: Apply quantum-enhanced data augmentation techniques to existing images to create new variations. This can include operations such as rotation, translation, and scaling, which are done in a quantum-enhanced manner to increase the variety of the data.
-    1. Apply quantum data augmentation techniques to the existing images. 
-
-Machine Learning can be used to automate this data augmentation which will increase overall accuracy.
