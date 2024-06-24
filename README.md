@@ -11,11 +11,11 @@ Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vg
 To use dynamic Graph Neural Networks (GNNs) to enhance cybersecurity in home networks by identifying vulnerabilities, detecting attacks, tracing attack sources, assessing impacts, and developing protection and recovery strategies.
 
 # Expected Outcomes
-Enhanced Vulnerability Detection: A model that flags vulnerable devices in real-time.
+Enhanced Vulnerability Detection: A model that flags vulnerable devices in real time. (GCN)
 
-Accurate Source Tracing: Tools for tracing the origin of attacks quickly.
+Accurate Source Tracing: Tools for tracing the origin of attacks quickly. (GAT)
 
-Comprehensive Impact Assessment: A framework to measure attack impact on network performance.
+Comprehensive Impact Assessment: A framework to measure attack impact on network performance. (TGN)
 
 Improved Attack Detection and Prediction: A robust system for identifying and predicting attacks.
 
