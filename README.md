@@ -28,7 +28,13 @@ https://github.com/VainF/Torch-Pruning: works with different neural network arch
 Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
 # Datasets
-https://www.stratosphereips.org/datasets-malware 
+https://www.stratosphereips.org/datasets-malware (Multi-Modality): 
+
+Weblogs (Device Behavior Logs): Captured HTTP requests and responses, including timestamps, ports, response codes, sizes, IP addresses, content types, referers, and user agents.
+
+Netflows (Network Traffic): Captured network flows including detailed connection records with labels indicating the type of traffic (e.g., SPAM, TCP-Attempt, UDP, DNS).
+Labels are added to netflow records for identifying malicious activity.
+
 
 # Literature Review
 https://www.sciencedirect.com/science/article/abs/pii/S156625352200104X MST-GAT: A multimodal spatial–temporal graph attention network for time series anomaly detection.
