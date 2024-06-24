@@ -21,8 +21,15 @@ Attack Source Identification
 # Quantum Integration
 How QNNs Help: QNNs can improve the traceability of attack sources by analyzing the temporal and spatial relationships in network data more effectively. Quantum algorithms can analyze these relationships in a highly parallel manner, leading to faster and more accurate identification of attack sources. Example Approach: Developing quantum-enhanced graph traversal algorithms that leverage the principles of quantum entanglement to trace the origin of attacks​ (SpringerLink)​.
 
+# GitHub codes
+https://github.com/VainF/Torch-Pruning: works with different neural network architectures, including GNNs. Could easily adapt to our needs without requiring architecture-specific modifications. Structural pruning is useful for real-time requirements.
+Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
-Other options:
+# Literature Review
+https://www.sciencedirect.com/science/article/abs/pii/S156625352200104X MST-GAT: A multimodal spatial–temporal graph attention network for time series anomaly detection.
+
+
+# Other options:
 
 Enhanced Vulnerability Detection: A model that flags vulnerable devices in real time. (GCN)
 Comprehensive Impact Assessment: A framework to measure attack impact on network performance. (TGN)
