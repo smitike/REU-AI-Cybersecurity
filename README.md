@@ -27,6 +27,9 @@ https://github.com/gordicaleksa/pytorch-GAT/blob/main/The%20Annotated%20GAT%20(C
 https://github.com/VainF/Torch-Pruning: works with different neural network architectures, including GNNs. Could easily adapt to our needs without requiring architecture-specific modifications. Structural pruning is useful for real-time requirements.
 Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
+# Datasets
+https://www.stratosphereips.org/datasets-malware 
+
 # Literature Review
 https://www.sciencedirect.com/science/article/abs/pii/S156625352200104X MST-GAT: A multimodal spatial–temporal graph attention network for time series anomaly detection.
 
