@@ -11,8 +11,7 @@ Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vg
 Develop algorithms that utilize the temporal and spatial relationships captured by the GNN to trace the origin of an attack within the network graph. Question: Can dynamic GNNs accurately trace back and identify the source of cybersecurity attacks within a network?
 
 # Expected Outcomes
-Accurate Source Tracing: Tools for tracing the origin of attacks quickly. (GAT)
-
+Accurate Source Tracing: tracing the origin of attacks, preventing the spread, and predicting the impact of the spread on the whole network.
 # Approach
 Attack Source Identification
  Approach: Utilize the temporal and spatial dependencies captured by the dynamic GNN to trace back the source of an attack.
