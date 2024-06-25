@@ -27,6 +27,8 @@ https://github.com/VainF/Torch-Pruning: works with different neural network arch
 Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
 # Datasets
+https://rpaudel42.github.io/pages/dataset.html
+
 https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis/data 
 
 https://www.stratosphereips.org/datasets-malware (Multi-Modality): 
@@ -38,6 +40,8 @@ Labels are added to netflow records for identifying malicious activity.
 
 
 # Literature Review
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2104.03654: approach to anti-spoofing using GATs. deep residual network (ResNet-18) architecture [32] which is used to extract high-level representation and then the GAT framework. Finally, we discuss the application of temporal and spectral attention. The architecture is illustrated in Figure
+
 https://www.sciencedirect.com/science/article/abs/pii/S156625352200104X MST-GAT: A multimodal spatial–temporal graph attention network for time series anomaly detection.
 
 
