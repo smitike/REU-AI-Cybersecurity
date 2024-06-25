@@ -27,6 +27,8 @@ https://github.com/VainF/Torch-Pruning: works with different neural network arch
 Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
 # Datasets
+https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis/data 
+
 https://www.stratosphereips.org/datasets-malware (Multi-Modality): 
 
 Weblogs (Device Behavior Logs): Captured HTTP requests and responses, including timestamps, ports, response codes, sizes, IP addresses, content types, referers, and user agents.
