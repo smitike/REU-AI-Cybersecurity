@@ -5,13 +5,11 @@ PPT: [https://docs.google.com/presentation/d/1z5sr9k3j24NHAuz8u-bZl0Wzn8QQzbkR56
 
 GAT reproduced implementation repo: https://github.com/smitike/pytorch-GAT/tree/main 
 
-Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vgGPa3wk0qb8HoKravFoO0Us/edit
-
-GAT Testing on Jupyter: [![F43A620A-239F-4980-B10B-A785C9863DB4_1_105_c](https://github.com/smitike/REU-AI-Cybersecurity-SM/assets/122339212/0be38b96-b69b-4b65-bc73-8cbcc77cd91f)](https://drive.google.com/file/d/1pUnT0xbk481KpvoarUbWum17NmrS28Vk/view?usp=drive_link)
+GAT Testing on Jupyter video: [![F43A620A-239F-4980-B10B-A785C9863DB4_1_105_c](https://github.com/smitike/REU-AI-Cybersecurity-SM/assets/122339212/0be38b96-b69b-4b65-bc73-8cbcc77cd91f)](https://drive.google.com/file/d/1pUnT0xbk481KpvoarUbWum17NmrS28Vk/view?usp=drive_link)
 
 
 GAT Base Model Testing - https://youtu.be/QnovHpuHaXU
-
+Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vgGPa3wk0qb8HoKravFoO0Us/edit
 # Main Purpose
 Develop algorithms that utilize the temporal and spatial relationships captured by the GNN to trace the origin of an attack within the network graph. Question: Can dynamic GNNs accurately trace back and identify the source of cybersecurity attacks within a network?
 
