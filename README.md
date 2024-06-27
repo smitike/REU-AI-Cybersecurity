@@ -3,6 +3,8 @@ REU Project Overleaf link: https://www.overleaf.com/project/6661f42fac3b60ef6a4f
 
 PPT: [https://docs.google.com/presentation/d/1z5sr9k3j24NHAuz8u-bZl0Wzn8QQzbkR56Wk5UkNN7Y/edit#slide=id.p](https://mailmissouri-my.sharepoint.com/:p:/r/personal/tasn78_umsystem_edu/Documents/REU-IDS-QNN-Selam-Tom%20-%20Copy.pptx?d=w429a22e021794fa399e8c1938b34d3fe&csf=1&web=1&e=BwwOWt)
 
+GAT reproduced implementation: https://github.com/smitike/pytorch-GAT/tree/main 
+
 Literature Review doc: https://docs.google.com/document/d/144FEUBrRvgYVvr7Msp3vgGPa3wk0qb8HoKravFoO0Us/edit
 
 ###IoT
