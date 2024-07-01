@@ -33,6 +33,8 @@ https://github.com/VainF/Torch-Pruning: works with different neural network arch
 Integration: Check how well the pruning technique can be integrated with your existing GNN model for source tracing. The integration should not disrupt your model's primary function.
 
 # Datasets
+https://www.kaggle.com/datasets/bobaaayoung/dataset-invade : home network, includes attacks
+
 Preprocessed: https://research.unsw.edu.au/projects/toniot-datasets and https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/data (includes attacks)
 
 https://www.kaggle.com/datasets/vigneshvenkateswaran/bot-iot/data (includes attacks)
