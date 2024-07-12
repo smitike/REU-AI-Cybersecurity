@@ -9,6 +9,8 @@ GAT Testing on Jupyter video: [![F43A620A-239F-4980-B10B-A785C9863DB4_1_105_c](h
 
 colab: https://colab.research.google.com/drive/12-2FqGqxmSUPxtVk9txMdRJXSg7UVAXs#scrollTo=4MbwQn_-yuc4 
 
+TGN & TGN-QNN Implementation - https://colab.research.google.com/drive/1jEkcGLIKrLwib2eRGVsJjDsQIASqVWwR
+
 
 GAT Base Model Testing - https://youtu.be/QnovHpuHaXU
 
